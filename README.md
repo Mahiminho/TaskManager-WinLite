@@ -37,7 +37,7 @@ of WinAPI functions that the program uses.</p>
             <p align="center"><img src="./img/productivity.jpg"></p>
         </li>
         <li>
-            <p>Details: Here you can view more specific information about the processes, such as their PID, number of threads, priority, 
+            <p><b>Details:</b> Here you can view more specific information about the processes, such as their PID, number of threads, priority, 
             and more.</p>
             <p align="center"><img src="./img/details.jpg"></p>
         </li>
