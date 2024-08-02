@@ -21,7 +21,7 @@ which you can see in the images below.</p>
 </p>
 <p>uses the <code>GetExitCodeProcess(hProcess, &exitCode);</code> function to get the process state. This is just one example 
 of WinAPI functions that the program uses.</p>
-<p>The program consists of three main pages: processes, performance, and details.</p>
+<p>The program consists of three main pages: processes, productivity, and details.</p>
 <p>
     <ul>
         <li>
